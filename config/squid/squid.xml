@@ -155,7 +155,7 @@
         <additional_files_needed>
                 <prefix>/usr/local/pkg/</prefix>
                 <chmod>0755</chmod>
-                <item>http://packages.optimalab.it/packages/config/squid-cattolica/squid_sync.xml</item>
+                <item>http://www.pfsense.org/packages/config/squid/squid_sync.xml</item>
         </additional_files_needed>
 	<fields>
 		<field>
